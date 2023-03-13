@@ -14,10 +14,10 @@
 ### How to run
 
   1. Run the follwing commands to run the app
-    * "npm install" to install all the front-end dependencies
-    * `npm run backend-build` to install the dependencies of backend server
-    * `npm run backend-start` to start the backend server
-    * `npm start ` to start the front end
+    * Install all the front-end dependencies `npm install` 
+    * Install the dependencies of backend server `npm run backend-build`
+    * Start the backend server `npm run backend-start`
+    * Start the front end `npm start ` 
   2. Run the follwing commands to run the test cases
     * npm run test
 
