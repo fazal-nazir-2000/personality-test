@@ -14,7 +14,7 @@
 ### How to run
 
   1. Run the follwing commands to run the app
-    * `npm install` to install all the front-end dependencies
+    * "npm install" to install all the front-end dependencies
     * `npm run backend-build` to install the dependencies of backend server
     * `npm run backend-start` to start the backend server
     * `npm start ` to start the front end
