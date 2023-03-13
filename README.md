@@ -8,33 +8,6 @@
 
   * Node
   * npm
-
-### How to run
-
-  1. Run the follwing commands to run the app
-    * npm install
-    * npm start
-  2. Run the follwing commands to run the test cases
-    * npm run test
-
-### Features
-
-  * Takes a name input at the start
-  * If you do not enter the name you can not proceed and a warning toast is shown
-  * Asks 5 questions
-  * Option to go back to previous quesstion is given
-  * When you answer all 5 questions you're personality is told
-
-# README
-
-## Personality Test App
-
-  This is a personality test app made in react which tells wether you are an introvert or an extrovert
-
-### Prerequisites
-
-  * Node
-  * npm
   * ruby-3.0.0
   * rails 7.0.4
 
