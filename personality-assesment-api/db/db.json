@@ -1,0 +1,109 @@
+{
+  "assessment_questions":[
+   {
+      "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "answers": [
+         {
+            "content": "Don’t dare to interrupt them",
+            "points": 2
+         },
+         {
+            "content": "Think it’s more important to give them some of your time; work can wait",
+            "points": 1
+         },
+         {
+            "content": "Listen, but with only with half an ear",
+            "points": -1
+         },
+         {
+            "content": "Interrupt and explain that you are really busy at the moment",
+            "points": -2
+         }
+      ]
+   },
+   {
+      "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "answers": [
+         {
+            "content": "Look at your watch every two minutes",
+            "points": 2
+         },
+         {
+            "content": "Bubble with inner anger, but keep quiet",
+            "points": 1
+         },
+         {
+            "content": "Explain to other equally impatient people in the room that the doctor is always running late",
+            "points": -1
+         },
+         {
+            "content": "Complain in a loud voice, while tapping your foot impatiently",
+            "points": -2
+         }
+      ]
+   },
+   {
+      "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+      "answers": [
+         {
+            "content": "Don’t dare contradict them",
+            "points": 2
+         },
+         {
+            "content": "Think that they are obviously right",
+            "points": 1
+         },
+         {
+            "content": "Defend your own point of view, tooth and nail",
+            "points": -1
+         },
+         {
+            "content": "Continuously interrupt your colleague",
+            "points": -2
+         }
+      ]
+   },
+   {
+      "question": "You are taking part in a guided tour of a museum. You:",
+      "answers": [
+         {
+            "content": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+            "points": 2
+         },
+         {
+            "content": "Follow the group without question",
+            "points": 1
+         },
+         {
+            "content": "Make sure that everyone is able to hear properly",
+            "points": -1
+         },
+         {
+            "content": "Are right up the front, adding your own comments in a loud voice",
+            "points": -2
+         }
+      ]
+   },
+   {
+      "question": "During dinner parties at your home, you have a hard time with people who:",
+      "answers": [
+         {
+            "content": "Ask you to tell a story in front of everyone else",
+            "points": 2
+         },
+         {
+            "content": "Talk privately between themselves",
+            "points": 1
+         },
+         {
+            "content": "Hang around you all evening",
+            "points": -1
+         },
+         {
+            "content": "Always drag the conversation back to themselves",
+            "points": -2
+         }
+      ]
+   }
+  ]
+}
