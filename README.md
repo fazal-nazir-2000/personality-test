@@ -13,13 +13,17 @@
 
 ### How to run
 
-  1. Run the follwing commands to run the app
-    * Install all the front-end dependencies `npm install` 
-    * Install the dependencies of backend server `npm run backend-build`
-    * Start the backend server `npm run backend-start`
-    * Start the front end `npm start ` 
-  2. Run the follwing commands to run the test cases
-    * npm run test
+1. To run the app, follow these steps:
+
+   - Install all the front-end dependencies by running `npm install`
+   - Install the dependencies of backend server by running `npm run backend-build`
+   - Start the backend server by running `npm run backend-start`
+   - Start the front-end by running `npm start`
+
+2. To run the test cases, run the following command:
+
+   - `npm run test`
+
 
 ### Features
 
