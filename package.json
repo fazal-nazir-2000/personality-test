@@ -21,6 +21,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "backend-start": "cd ./personality-assesment-api && rails s",
+    "backend-build": "cd ./personality-assesment-api && bundle install",
     "test": "react-scripts test --transformIgnorePatterns \"node_modules/(?!axios)/\"",
     "eject": "react-scripts eject"
   },
